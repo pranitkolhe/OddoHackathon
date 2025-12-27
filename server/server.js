@@ -4,7 +4,7 @@ import dotenv from "dotenv"
 import cors from "cors"
 import authRoutes from "./routes/authRoutes.js"
 import equipmentRoutes from "./routes/equipmentRoutes.js"
-import equipmentRoutes from "./routes/equipmentRoutes.js"
+
 
 
 
